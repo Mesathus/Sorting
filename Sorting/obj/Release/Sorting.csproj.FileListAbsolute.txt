@@ -1,0 +1,5 @@
+J:\Data Structures\Sorting\Sorting\bin\Release\Sorting.exe.config
+J:\Data Structures\Sorting\Sorting\bin\Release\Sorting.exe
+J:\Data Structures\Sorting\Sorting\bin\Release\Sorting.pdb
+J:\Data Structures\Sorting\Sorting\obj\Release\Sorting.exe
+J:\Data Structures\Sorting\Sorting\obj\Release\Sorting.pdb

@@ -1,0 +1,6 @@
+J:\Data Structures\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+J:\Data Structures\Sorting\Sorting\bin\Debug\Sorting.exe.config
+J:\Data Structures\Sorting\Sorting\bin\Debug\Sorting.exe
+J:\Data Structures\Sorting\Sorting\bin\Debug\Sorting.pdb
+J:\Data Structures\Sorting\Sorting\obj\Debug\Sorting.exe
+J:\Data Structures\Sorting\Sorting\obj\Debug\Sorting.pdb
